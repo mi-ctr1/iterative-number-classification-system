@@ -15,3 +15,23 @@ This program analyzes a number by iteratively calculating the sum of its proper 
 The result determines the classification:
 
 Perfect Number – the sum of its proper divisors equals the number
+
+## Concepts Demonstrated
+
+- Separation of concerns (fixed range vs. user-driven range)
+- Code reuse via method calls
+- Handling edge cases with appropriate data types
+
+  ## Example
+  ***Input:***
+  ```
+  Enter upper limit to search for perfect number:
+  625,000
+  ```
+  ***Output:***
+  ```
+  6 is a perfect number.
+  28 is a perfect number.
+  496 is a perfect number.
+  8128 is a perfect number.
+  ```
