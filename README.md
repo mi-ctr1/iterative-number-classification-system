@@ -1,4 +1,4 @@
-Iterative Number Classification System
+# Iterative Number Classification System
 
 
 A simple number analysis utility that classifies integers based on the sum of their divisors using an iterative algorithm.
@@ -6,7 +6,7 @@ A simple number analysis utility that classifies integers based on the sum of th
 This project demonstrates basic algorithm design, iteration, and number classification concepts by evaluating whether a number is perfect, abundant, or deficient.
 
 
-Overview
+## Overview
 
 Number classification is a common programming exercise used to demonstrate algorithmic reasoning and control flow.
 
